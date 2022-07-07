@@ -3,6 +3,9 @@
      com1- TP3 "Juego interactivo libre"
          link:
              https://youtu.be/VVetXsPcbuY
+        El video dura más de dos minutos pero es en la menor
+        cantidad de tiempo en la que pude explicar todo, en
+        intentos anteriores duraban aprox 8 minutos.
 */
 int cant = 50;
 int cant2 = 7;
