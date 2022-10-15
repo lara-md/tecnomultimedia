@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+body {
+ background-color:black;
+ font-family: 'Questrial', sans-serif;
+ border-radius: 50px;
+ 
+}
+
+h1,h2,h3{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    color:aliceblue;
+    font-size: 100px;
+    margin: 0px 0px;
+    text-align: center;
+}
+img{
+    border-radius: 10px;
+}
+p{
+    padding: 0px 10px;
+}
+
+.contenedores{
+    width: 1000px;
+    background-color: white;
+    margin: 0px auto 30px auto;
+    padding:20px;
+    border-radius: 10px;
+
+}
+.barraSuperior{
+    width: 1000px;
+    background-color: white;
+    margin: 0px auto 30px auto;
+    padding:20px;
+    border-radius: 0px 0px 10px 10px;
+
+}
+
+.imagen-dark{
+    background-image: url(https://rics.scene7.com/is/image/rics/Ed%20Milbank_31%20August_%20heroimage_ryan-searle-H33dAQfsjZA-unsplash%20copy?$article-big-img-desktop$&qlt=85,1);
+    border-radius: 10px 10px 0px 0px;
+    height: 100px;
+    width: 775px;
+    margin: 0px auto;
+    padding: 133px;
+}
+.item-m{
+    background-color: darkslategrey;
+    display:inline-block;
+    padding:10px 25px;
+    color:white;
+    margin: 50px 0px 0px 0px;
+}
+.familias{
+    display: flex;
+    padding: 20px;
+    text-align: center center;
+
+}
+.gif{
+    background-image: url(https://www.cinepremiere.com.mx/wp-content/uploads/2020/06/dark-series.gif);
+    background-size: cover;
+    height: 300px;
+    border-radius: 10px;
+}
+.icons{
+    border-radius: 100%;
+    
+}
+
