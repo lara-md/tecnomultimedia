@@ -28,6 +28,7 @@ p{
     width: 1000px;
     background-color: white;
     margin: 0px auto 30px auto;
+    padding: 20px;
     border-radius: 10px;
 
 }
@@ -57,7 +58,6 @@ p{
 }
 .familias{
     display: flex;
-    padding: 20px;
     text-align: center center;
 
 }
