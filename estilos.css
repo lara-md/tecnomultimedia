@@ -17,6 +17,9 @@ h1{
     margin: 0px 0px;
     text-align: center;
 }
+a{
+    color: white;
+}
 img{
     border-radius: 10px;
 }
