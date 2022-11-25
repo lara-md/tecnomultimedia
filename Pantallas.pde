@@ -27,7 +27,7 @@ class Pantallas {
     background(50, 25, 100);
     textAlign(CENTER);
     textSize(20);
-    text("¡Tu banda favorita va a dar un concierto\nen tu país! Pero estas llegando\ntarde y tenés que cruzar la calle \n¡Mucho cuidado con los autos!,\nuna vez que llegues al otro lado \ntendrás que escabullirte entre las otras \nfans, pero rápido, con cuidado de no acercarse \ndemasiado a ellas y te arrastren al inicio de la \nfila y antes de que cierren las puertas, \ntenés 30 segundos.\n¡Llegá san@ y salv@ al Monumental para ganar!",
+    text("¡Tu banda favorita va a dar un concierto\nen tu país! Pero estas llegando\ntarde y tenés que cruzar la calle \n¡Mucho cuidado con los autos!,\nuna vez que llegues al otro lado \ntendrás que escabullirte entre las otras \nfans, pero rápido, con cuidado de no acercarse \ndemasiado a ellas y te arrastren al inicio de la \nfila y antes de que cierren las puertas, \ntenés 20 segundos.\n¡Llegá san@ y salv@ al Monumental para ganar!",
       width/2, height/4-40);
     textSize(10);
     text(texto[7], width/2, 375 );
