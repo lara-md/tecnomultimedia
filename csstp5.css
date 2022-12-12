@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gotu&display=swap');
+
+body {
+ background-color: rgb(255, 251, 253);
+ border-radius: 50px;
+ font-family: 'Sora', sans-serif;
+}
+h1{
+    font-size: 50px;
+    margin: 0px 0px;
+    text-align: center;
+    font-family: 'Gotu', sans-serif;
+}
+h5,h6{
+    font-family: 'Gotu', sans-serif;
+}
+.sombra{
+    text-shadow:
+    1px 1px 7px rgb(0, 0, 0);
+}
+.contenedores{
+    width: 1000px;
+    margin: 0px auto 30px auto;
+    padding:20px;
+}
+.imagen-head{
+    background-image: url(https://i.pinimg.com/564x/8b/55/04/8b5504825ea01ea1eb747632b8428926.jpg);
+    background-size: cover;
+    margin: 0px auto;
+    padding: 80px;
+    color:white;
+}
+.imagenAbajo{
+    background-image: url(https://i.pinimg.com/564x/8b/55/04/8b5504825ea01ea1eb747632b8428926.jpg);
+    background-size: cover;
+    padding: 30px;
+    color: white;
+}
+.tp0{
+display: flex;
+ flex-direction: column;
+background-image: linear-gradient( to bottom,rgba(168, 103, 123, 0.507) 1%, transparent), url("img/tp0.png");
+background-size: cover;
+}
+.tp1{
+    display: flex;
+    flex-direction: column;
+   background-image: linear-gradient( to bottom,rgb(168, 103, 123, 0.507) 1%, transparent), url("img/tp1.png");
+background-size: cover;
+}
+.tp2{
+    display: flex;
+    flex-direction: column;
+   background-image: linear-gradient( to bottom,rgb(168, 103, 123, 0.507) 1%, transparent), url("img/tp2.png");
+ background-size: cover;
+}
+.tp3{
+    display: flex;
+ flex-direction: column;
+background-image: linear-gradient( to bottom,rgb(168, 103, 123, 0.507) 1%, transparent), url("img/tp3.png");
+    background-size: cover;
+    }
+ .tp4{
+ display: flex;
+flex-direction: column;
+background-image: linear-gradient( to bottom,rgb(168, 103, 123, 0.507) 1%, transparent), url("img/tp4.png");
+background-size: cover;
+}
+.tp5{
+    display: flex;
+ flex-direction: column;
+background-image: linear-gradient( to bottom,rgba(168, 103, 123, 0.507) 1%, transparent), url("img/tp5.png");
+    background-size: cover;
+    }
+.simplescrollup__button {
+	position: fixed;
+	bottom: 3rem;
+	right: 3rem;
+	transition: 1s all;
+	z-index: 10000;
+}
+.simplescrollup__button--show {
+	transform: translateX(0);
+}
+.simplescrollup__button--hide {
+	transform: translateX(100px);
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
